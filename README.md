@@ -8,7 +8,7 @@ I'm completed my graduation. I'm started learning my Data Science course last th
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/karava-anusha-922220215/)
-* ✉️  You can contact me at [Anushareddykarava@gmail.com](mailto:Anushareddykarava@gmail.com)
+* ✉️  You can contact me at karavaanushareddy@gmail.com(mailto:Anushareddykarava@gmail.com)
 * 🧠  I'm learning Data Science with Python
 * 🤝  I'm open to collaborating on Innomatics Research Labs
 * ⚡  i'm being BUTTERFLY, don't tell any one
